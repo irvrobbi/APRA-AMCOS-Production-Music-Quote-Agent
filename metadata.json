@@ -1,0 +1,7 @@
+{
+  "name": "APRA AMCOS Production Music Quote Agent",
+  "description": "An intelligent AI agent for calculating 2025 production music rates for Australia and New Zealand.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
